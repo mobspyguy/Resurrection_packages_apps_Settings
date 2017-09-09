@@ -1522,6 +1522,10 @@
   <string name="down_swipe_title">Превлачење на доле</string>
   <string name="long_swipe_reset">Поништи</string>
   <string name="fling_advanced">Напредно</string>
+  <string name="fling_long_swipe_title">Прагови дугог повлачења</string>
+  <string name="fling_long_swipe_summary">Подесите прагове дугог повлачења на основу ширине и висине интерфејса Финга</string>
+  <string name="fling_trails_enable_title">Омогући траг покрета</string>
+  <string name="fling_trails_enable_summary">Приказује траг док изводите покрете повлачења</string>
   <string name="fling_trails_color_title">Боја трага</string>
   <string name="fling_trails_width_title">Ширина трага</string>
   <string name="fling_appearance">Изглед</string>
@@ -1532,10 +1536,23 @@
   <string name="fling_logo_custom_logo_pick_title">Прилагођена иконица логоа</string>
   <string name="fling_logo_custom_logo_image_pick_title">Прилагођена слика логоа</string>
   <string name="fling_logo_custom_logo_reset_title">Рсетуј иконицу логоа</string>
+  <string name="fling_show_ripple_title">Прикажи мрешкање</string>
+  <string name="fling_show_ripple_summary">Приказује мрешкање при додиру траке</string>
+  <string name="fling_ripple_color">Боја мрешкања</string>
+  <string name="fling_longpress_timeout_label_left">Мање кашњење</string>
+  <string name="fling_longpress_timeout_label_right">Веће кашњење</string>
+  <string name="fling_longpress_title">Кашњење дугог притиска</string>
+  <string name="fling_longpress_summary">Повећајте или смањите време које је потребно за дуги притисак</string>
   <!-- Pulse navigation bar music visualizer -->
+  <string name="pulse_help_policy_notice_title">О пулсу</string>
+  <string name="pulse_help_policy_notice_summary">Пулс је генијалан графички еквилајзер звука који приказује на навигацијској траци када је репродукује музика. Пулс не ради са неким изворима звука приликом слушања на звучнику уређаја</string>
+  <string name="pulse_settings">Пулс</string>
   <string name="pulse_advanced_category">Напредно</string>
   <!-- Pulse config -->
   <!-- Navbar height -->
+  <string name="portrait_title">Висина у портретном моду</string>
+  <string name="land_vert_title">Ширина у положеном моду</string>
+  <string name="land_hor_title">Висина у положеном моду</string>
   <string name="positive_done">Готово</string>
   <!-- SmartBar -->
   <string name="smartbar_category">Паметна трака</string>
@@ -1543,14 +1560,17 @@
   <string name="smartbar_right">Десно</string>
   <string name="smartbar_left">Лево</string>
   <string name="smartbar_ime_action_none">Ништа</string>
+  <string name="smartbar_ime_action_switcher">Пребацивач тастатура</string>
+  <string name="navbar_buttons_alpha_title">Транспарентност дугмади</string>
   <!--Custom logos-->
+  <string name="custom_logo_style">Изаберите лого</string>
   <string name="logo4">Друпал</string>
   <string name="logo20">Трчање</string>
   <!-- Carrier label -->
   <!-- Status Bar Ticker -->
   <string name="ticker_screen_summary">Прилагодите стил тикера у статусној траци</string>
   <!-- Superuser indicator on status bar -->
-  <!-- PA Pie control -->
+  <!-- Pie -->
   <!-- Heads up switch -->
   <!-- Heads up timeout -->
   <!-- Heads up snooze -->
@@ -1613,4 +1633,8 @@
   <!-- No navigation notification -->
   <!-- Settings header -->
   <!-- FP gesture -->
+  <!-- ANBI -->
+  <!-- Pocket judge -->
+  <!-- Sensor block per-package -->
+  <!-- Qs easy tile add -->
 </resources>
