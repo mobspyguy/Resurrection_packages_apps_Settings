@@ -64,10 +64,14 @@
   <string name="rr_ls_ui">Kilit ekranı kullanıcı arayüzü</string>
   <string name="rr_ls_security">Güvenlik</string>
   <string name="updater_title">Güncellemeler</string>
-  <string name="altan_summary">● Kurucu \n● Proje lideri \n● Baş geliştiricisi \n● UX tasarımcısı \n● Cihaz Sorumlusu</string>
+  <string name="altankrk_summary">● Kurucu Ortak \n● Baş geliştirici \n● UX tasarımcı \n● Cihaz Sorumlusu</string>
   <string name="varun_summary">● Baş geliştirici \n● UX tasarımcı \n● Cihaz Sorumlusu</string>
   <string name="akhil_summary">● Geliştirici \n● Cihaz Sorumlusu \n● Komut dosyası uzmanı</string>
   <string name="brian_summary">● Geliştirici \n● Cihaz Sorumlusu</string>
+  <string name="christopher_kardas_summary">● Moderatör \n● Düzenleyici\n● Katılımcı</string>
+  <string name="matt_summary">● Moderatör \n● Düzenleyici\n● Katılımcı</string>
+  <string name="justen_summary">● Moderatör \n● Düzenleyici\n● Katılımcı</string>
+  <string name="support_team_title">Moderatör Etiketi</string>
   <string name="device_maintainers_title">Cihazlar ve sorumluları</string>
   <string name="device_maintainers_title_summary">Cihazlar ve resmi RR-OS cihaz sorumluları listesi</string>
   <string name="maintainers_note_title">Not</string>
@@ -213,7 +217,7 @@
   <string name="wallpaper_intra_close_title">Duvar kağıtları kapatma animasyonu</string>
   <string name="animation_duration_title">Animasyon süresi</string>
   <string name="title_animation_no_override">Uygulama geçersiz kılmalarını önle</string>
-  <string name="summary_animation_no_override">Uygulamaların geçişleri geçersiz kılmasını önle</string>
+  <string name="summary_animation_no_override">Uygulamaların geçersiz kılma geçişlerini engelle</string>
   <string name="animation_duration_default">Varsayılan</string>
   <string name="lv_dur_default">Varsayılan</string>
   <string name="lv_dur_25">25ms</string>
@@ -1254,7 +1258,7 @@
   <string name="recent_styles_summary">Son kullanılanlarda ki çeşitli öğeleri özelleştirme </string>
   <string name="mem_text_color">Hafıza çubuğu metni</string>
   <string name="clear_button_color">Tümünü temizle</string>
-  <string name="clear_recents_style_enable">Son kullanılanlar stili</string>
+  <string name="clear_recents_style_enable">Özel son kullanılanlar stili</string>
   <string name="clear_recents_style_enable_summary">Tümünü temizle tuşunu özelleştirmeyi etkinleştir / devre dışı bırak</string>
   <string name="recents_rotate_fab">Yüzen tuş animasyonu</string>
   <string name="recents_rotate_fab_summary">Tümünü temizle tuşunu döndürmeyi etkinleştir / devre dışı bırak</string>
@@ -2166,7 +2170,7 @@ Piksel yoğunluğu <xliff:g name="count" example="520">%d</xliff:g></string>
   <string name="confirm_shutdown_switch_desc">Güç menüsünde kapatma seçeneğine dokunulduğunda, kapatmayı onaylamak için bir diyalog ekle</string>
   <!-- Notification guts kill app button -->
   <string name="notification_guts_kill_app_button_title">Uygulama sonlandırma tuşu</string>
-  <string name="notification_guts_kill_app_button_summary">Bildirime uzun basma menüsünde uygulamayı sonlandırma tuşu göster</string>
+  <string name="notification_guts_kill_app_button_summary">Bildirime uzun basma menüsünde uygulamayı sonlandırma tuşunu göster</string>
   <string name="weather_title">Hava durumu</string>
   <string name="weather_config_title">Servis ayarları</string>
   <string name="weather_icon_pack_title">Durum simgesi paketi</string>
@@ -2188,7 +2192,7 @@ Piksel yoğunluğu <xliff:g name="count" example="520">%d</xliff:g></string>
   <string name="roaming_indicator_icon_summary">Dolaşım modundayken sinyal simgesinde dolaşım göstergesini görüntüle</string>
   <!-- Data disabled icon -->
   <string name="data_disabled_icon_title">Mobil veri devre dışı simgesini göster</string>
-  <string name="data_disabled_icon_summary">Mobil veri devre dışı bırakıldığında sinyal çubuğunun yanında çapraz işaretini gösterin</string>
+  <string name="data_disabled_icon_summary">Mobil veri devre dışı bırakıldığında sinyal çubuğunun yanında çarpı işareti gösterir</string>
   <!-- Data/Wifi activity arrows -->
   <string name="data_wifi_activity_arrows_title">Veri/Wi-Fi etkinliği</string>
   <string name="data_wifi_activity_arrows_summary">Veri/Wi-Fi etkinliği oklarını göster</string>
@@ -2274,9 +2278,11 @@ Piksel yoğunluğu <xliff:g name="count" example="520">%d</xliff:g></string>
   <string name="pocket_judge_title">Cep algılama</string>
   <string name="pocket_judge_summary">Cihaz cebinizdeyken ekran ve tuş girişlerini engelleyin</string>
   <!-- Sensor block per-package -->
-  <string name="sensor_block_title">Uyguşama başına sensör bloğu</string>
+  <string name="sensor_block_title">Uygulama başına sensör engelleme</string>
   <string name="sensor_block_summary">Bazı uygulamaların pil tasarrufu yapması için belirli sensörlere erişimi engelleyin.</string>
   <!-- Qs easy tile add -->
   <string name="single_tap_tile_add_title">Kolay kare ekleme</string>
   <string name="single_tap_tile_add_summary">Hızlı kareleri, sürüklemek yerine dokunarak basitçe hızlı ayarlar düzenleyiciden kolayca ekleyin</string>
+  <!-- Color engine -->
+  <string name="default_string">Varsayılan</string>
 </resources>

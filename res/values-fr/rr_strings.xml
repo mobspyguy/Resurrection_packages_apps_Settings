@@ -64,10 +64,14 @@
   <string name="rr_ls_ui">Interface de l\'écran de verrouillage</string>
   <string name="rr_ls_security">Sécurité</string>
   <string name="updater_title">Mises à jour</string>
-  <string name="altan_summary">● Fondateur \n● chef de projet \n● chef développeur \n● concepteur UX \n● mainteneur</string>
+  <string name="altankrk_summary">● CO-Founder \n● Head developer \n● UX designer \n● Maintainer</string>
   <string name="varun_summary">● Développeur principal \n● Concepteur UX \n● Mainteneur</string>
   <string name="akhil_summary">● Développeur \n● mainteneur \n● Javascript master</string>
   <string name="brian_summary">● Développeur \n● mainteneur</string>
+  <string name="christopher_kardas_summary">● Moderator \n● Editor\n● Contributor</string>
+  <string name="matt_summary">● Moderator \n● Editor\n● Contributor</string>
+  <string name="justen_summary">● Moderator \n● Editor\n● Contributor</string>
+  <string name="support_team_title">Moderator Tag</string>
   <string name="device_maintainers_title">Appareils et mainteneurs</string>
   <string name="device_maintainers_title_summary">Liste des appareils et de leurs mainteneurs officiels RR-OS</string>
   <string name="maintainers_note_title">Note</string>
@@ -2267,14 +2271,16 @@
   <!-- ANBI -->
   <string name="anbi_title">Appui accidentel</string>
   <string name="anbi_summary">Empêcher l\'appui sur les boutons de navigation lorsque l\'écran est utilisé</string>
-  <string name="rr_keys_title">Divers</string>
+  <string name="rr_keys_title">Autres</string>
   <!-- Pocket judge -->
   <string name="pocket_judge_title">Détection de poches</string>
-  <string name="pocket_judge_summary">Bloquer l\'utilisation des boutons ou de l\'écran lorsque l\'appareil est dans une poche</string>
+  <string name="pocket_judge_summary">Empêche l\'activation accidentelle de votre appareil lorsque celui-ci est dans votre poche</string>
   <!-- Sensor block per-package -->
   <string name="sensor_block_title">Blocage du capteur par paquet</string>
   <string name="sensor_block_summary">Bloquer l’accès aux capteurs pour certaines applications afin d\'économiser la batterie.</string>
   <!-- Qs easy tile add -->
   <string name="single_tap_tile_add_title">Ajouter des tuiles facile</string>
-  <string name="single_tap_tile_add_summary">Ajoutez des tuiles rapides à partir de qs customizer en les tapant simplement au lieu de les déplacer</string>
+  <string name="single_tap_tile_add_summary">Ajouter rapidement des tuiles au volet des réglages rapides par simple appui au lieu de les faire glisser</string>
+  <!-- Color engine -->
+  <string name="default_string">Par défaut</string>
 </resources>
